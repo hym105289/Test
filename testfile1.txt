@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 hello github
 my name is hym
 new a branch
 be a happy guy
-=======
->>>>>>> parent of 409ef44... 20170714-添加内容
+i want to test pull request
